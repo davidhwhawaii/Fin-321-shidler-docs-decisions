@@ -18,7 +18,6 @@
 
 Our company holds a EUR receivable of €10,776,574 — derived from a $12,500,000 USD revenue target at the April 1, 2026 spot rate of 1.1608 — due for settlement in April 2027 (365-day horizon). As a USD-functional-currency entity that is long EUR, we are fully exposed to translation risk on the EUR/USD rate. A 5% adverse EUR depreciation (spot falling to approximately 1.1028) would reduce USD proceeds by roughly $625,472 relative to current spot conversion, representing a material cash flow impact for the period. The corporate treasury and Risk Management function has been tasked with evaluating four hedging strategies — forward hedge, money market hedge, EUR put option, and EUR call option — to protect the USD value of this receivable while identifying the optimal trade-off between cost, certainty, and upside participation. This specification documents the analytical framework built in Stage 2 and serves as the direct input to the Stage 4 AI model build.
 
-*A strong statement demonstrates clear understanding of both financial context and business implications.*
 
 ---
 
